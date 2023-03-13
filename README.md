@@ -1,5 +1,38 @@
 # Javascript developer test
 
+## Install locally
+
+#### 1. Clone project
+
+```shell script
+$ git clone https://github.com/Cyril-Bellotti/javascript-developer-test.git
+```
+
+#### 2. Install dependencies
+
+```shell script
+$ npm install
+```
+
+#### 3. Start application
+
+- Filter : 
+```shell script
+$ node app.js --filter=<value>
+```
+
+- Counter : 
+```shell script
+$ node app.js --count
+```
+
+#### 4. Run test
+
+```shell script
+$ npm run test
+```
+
+
 ## Filter
 
 Your job is to write a command-line interface in Node.js. 
