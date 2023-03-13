@@ -1,0 +1,20 @@
+{
+  "name": "javascript-developer-test",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "cyril.bellotti@leroymerlin.fr",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/preset-env": "^7.20.2",
+    "jest": "^29.5.0"
+  },
+  "jest": {
+    "verbose": true
+  }
+}
